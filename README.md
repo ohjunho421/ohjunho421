@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-![Rorarion's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohjunho421&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunho421&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ohjunho421&show_icons=true&theme=radical" height="150px" style="margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunho421&layout=compact" height="150px"/>
+</div>
 
 <!--
 **ohjunho421/ohjunho421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
