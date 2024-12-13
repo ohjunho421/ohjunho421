@@ -10,11 +10,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=junia3&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
-with:
-    github_user_name: 여기다가 github ID 적기 !!!
-    outputs: |
-        dist/github-snake.svg
-        dist/github-snake-dark.svg?palette=github-dark
+
 
 <img src="https://github.com/ohjunho421/ohjunho421/blob/output/github-snake-dark.svg" width="100%">
 
