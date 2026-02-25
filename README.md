@@ -33,20 +33,20 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
-<h1>📧</h1>
-<h2>11,674건</h2>
-<p><b>콜드메일 발송</b></p>
+<td align="center" width="280">
+<br/>
+<img src="https://img.shields.io/badge/📧_콜드메일_발송-11,674건-58A6FF?style=for-the-badge&labelColor=20232a" />
+<br/><br/>
 </td>
-<td align="center" width="33%">
-<h1>📈</h1>
-<h2>2.2배</h2>
-<p><b>회신율 향상</b></p>
+<td align="center" width="280">
+<br/>
+<img src="https://img.shields.io/badge/📈_회신율_향상-2.2배-FF6B6B?style=for-the-badge&labelColor=20232a" />
+<br/><br/>
 </td>
-<td align="center" width="33%">
-<h1>💻</h1>
-<h2>21개</h2>
-<p><b>GitHub 레포</b></p>
+<td align="center" width="280">
+<br/>
+<img src="https://img.shields.io/badge/💻_GitHub_레포-21개-34A853?style=for-the-badge&labelColor=20232a" />
+<br/><br/>
 </td>
 </tr>
 </table>
@@ -61,9 +61,9 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunho421&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunho421&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application&langs_count=8" width=38% />
 </a>    
-<a href="https://github.com/ohjunho421/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ohjunho421&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 
@@ -163,23 +163,46 @@
 ## 💼 Experience
 
 <div align="center">
+<table>
+<tr>
+<td>
 
-```
- 🏢 PortOne (코리아포트원)  │  SDR · 영업개발       │  2025.06 ~ 현재
-    ├─ AI 콜드메일 파이프라인 직접 구축 (CSV → 수집 → AI 생성 → 발송 완전 자동화)
-    ├─ 개인화 이메일 시스템 개발 → 회신율 1.7% → 3.8% (2.2배 향상)
-    └─ 총 11,674건 아웃바운드 발송
+**🏢 PortOne (코리아포트원)** · SDR · 영업개발 · `2025.06 ~ 현재`
 
- 🏢 AIPARK                  │  SaaS Sales           │  2024.07 ~ 2024.10
-    └─ AI 음성 합성 SaaS B2B 영업, 기술 세일즈 체계화
+> ✅ AI 콜드메일 파이프라인 직접 구축 (CSV → 수집 → AI 생성 → 발송 완전 자동화) 
+> ✅ 개인화 이메일 시스템 개발 → 회신율 **1.7% → 3.8%** (2.2배 향상) 
+> ✅ 총 **11,674건** 아웃바운드 발송
 
- 🏢 오픈놀                   │  B2B 영업 매니저       │  2022.05 ~ 2024.01
-    └─ 기업 직무 교육 B2B 영업, 자동화 스크립트로 효율 향상
+</td>
+</tr>
+<tr>
+<td>
 
- 🏢 브라운백 커피 (스윗버드)  │  B2B 구독 서비스 영업  │  2020.10 ~ 2022.04
-    └─ 커피머신 렌탈·원두 구독 서비스 B2B 영업
-```
+**🏢 AIPARK** · SaaS Sales · `2024.07 ~ 2024.10`
 
+> AI 음성 합성 SaaS B2B 영업, 기술 세일즈 체계화
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🏢 오픈놀** · B2B 영업 매니저 · `2022.05 ~ 2024.01`
+
+> 기업 직무 교육 B2B 영업, 자동화 스크립트로 효율 향상
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🏢 브라운백 커피 (스윗버드)** · B2B 구독 서비스 영업 · `2020.10 ~ 2022.04`
+
+> 커피머신 렌탈·원두 구독 서비스 B2B 영업
+
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
