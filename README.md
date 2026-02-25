@@ -1,27 +1,60 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=180&section=header&text=Oh%20Junho&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=B2B%20Sales%20×%20AI%20Developer&descSize=16&descAlignY=50&descColor=ffffffaa" width="100%"/>
 
 <div align="center">
 
-# 오준호 · B2B Sales × AI Developer
-
-**데이터로 세일즈를, 코드로 자동화합니다**
-
-`PortOne(코리아포트원) SDR 재직 중`
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%92%A1+%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C+%EC%84%B8%EC%9D%BC%EC%A6%88%EB%A5%BC%2C+%EC%BD%94%EB%93%9C%EB%A1%9C+%EC%9E%90%EB%8F%99%ED%99%94%ED%95%A9%EB%8B%88%EB%8B%A4;%F0%9F%9A%80+AI+%ED%88%B4%EC%9D%84+%EC%A7%81%EC%A0%91+%EA%B0%9C%EB%B0%9C%ED%95%B4+B2B+%EC%84%B8%EC%9D%BC%EC%A6%88%EC%97%90+%EC%A0%91%EB%AA%A9" alt="Typing SVG" /></a>
 
 <br/>
 
-AI 툴을 직접 개발해 B2B 세일즈에 접목하는 영업 매니저입니다.<br/>
-콜드메일 파이프라인 구축, 개인화 챗봇 개발, 반복 업무 자동화로 전환율을 끌어올립니다.
+<img src="https://img.shields.io/badge/🏢_PortOne(코리아포트원)-SDR_재직_중-58A6FF?style=for-the-badge&labelColor=20232a" />
+
+<br/><br/>
+
+콜드메일 파이프라인 구축 · 개인화 챗봇 개발 · 반복 업무 자동화로 전환율을 끌어올립니다.
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/jjuno__92@hanmail.net-20232a?style=for-the-badge&logo=maildotru&logoColor=58A6FF)](mailto:jjuno_92@hanmail.net)
-[![GitHub](https://img.shields.io/badge/ohjunho421-20232a?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/ohjunho421)
-[![YouTube](https://img.shields.io/badge/@Rorarion-20232a?style=for-the-badge&logo=youtube&logoColor=58A6FF)](https://www.youtube.com/@Rorarion)
+[![Gmail](https://img.shields.io/badge/jjuno__92@hanmail.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjuno_92@hanmail.net)
+[![GitHub](https://img.shields.io/badge/ohjunho421-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ohjunho421)
+[![YouTube](https://img.shields.io/badge/@Rorarion-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Rorarion)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ohjunho421&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⚡ Key Highlights
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<h1>📧</h1>
+<h2>11,674건</h2>
+<p><b>콜드메일 발송</b></p>
+</td>
+<td align="center" width="33%">
+<h1>📈</h1>
+<h2>2.2배</h2>
+<p><b>회신율 향상</b></p>
+</td>
+<td align="center" width="33%">
+<h1>💻</h1>
+<h2>21개</h2>
+<p><b>GitHub 레포</b></p>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -34,8 +67,16 @@ AI 툴을 직접 개발해 B2B 세일즈에 접목하는 영업 매니저입니�
   <img src="https://github-readme-stats.vercel.app/api?username=ohjunho421&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=ohjunho421&theme=material-palenight&hide_border=true&background=20232a&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=ffffffaa" width=56% />
+</a>
+
+<br/>
+
 <a href="https://github.com/ohjunho421/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohjunho421&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohjunho421&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF&point=FF6B6B" width=94%/>
 </a>
 
 <img src="https://github.com/ohjunho421/ohjunho421/blob/output/github-snake-dark.svg" width="100%">
@@ -44,68 +85,47 @@ AI 툴을 직접 개발해 B2B 세일즈에 접목하는 영업 매니저입니�
 
 <br/>
 
-## ⚡ Key Highlights
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<img width="40" src="https://img.icons8.com/fluency/48/mail--v1.png" alt="mail"/>
-<br/><b>11,674건</b>
-<br/><sub>콜드메일 발송</sub>
-</td>
-<td align="center" width="33%">
-<img width="40" src="https://img.icons8.com/fluency/48/combo-chart.png" alt="chart"/>
-<br/><b>2.2배</b>
-<br/><sub>회신율 향상</sub>
-</td>
-<td align="center" width="33%">
-<img width="40" src="https://img.icons8.com/fluency/48/source-code.png" alt="code"/>
-<br/><b>21개</b>
-<br/><sub>GitHub 레포</sub>
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**<br/>
-![Python](https://img.shields.io/badge/Python-20232a?style=flat-square&logo=python&logoColor=58A6FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232a?style=flat-square&logo=typescript&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232a?style=flat-square&logo=javascript&logoColor=58A6FF)
+### 💬 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend**<br/>
-![React](https://img.shields.io/badge/React_18-20232a?style=flat-square&logo=react&logoColor=58A6FF)
-![Next.js](https://img.shields.io/badge/Next.js-20232a?style=flat-square&logo=nextdotjs&logoColor=58A6FF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-20232a?style=flat-square&logo=tailwindcss&logoColor=58A6FF)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-20232a?style=flat-square&logo=framer&logoColor=58A6FF)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Backend**<br/>
-![Node.js](https://img.shields.io/badge/Node.js-20232a?style=flat-square&logo=nodedotjs&logoColor=58A6FF)
-![Django](https://img.shields.io/badge/Django-20232a?style=flat-square&logo=django&logoColor=58A6FF)
-![Flask](https://img.shields.io/badge/Flask-20232a?style=flat-square&logo=flask&logoColor=58A6FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232a?style=flat-square&logo=postgresql&logoColor=58A6FF)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**AI & Automation**<br/>
-![Claude](https://img.shields.io/badge/Claude_API-20232a?style=flat-square&logo=anthropic&logoColor=58A6FF)
-![Gemini](https://img.shields.io/badge/Gemini_API-20232a?style=flat-square&logo=googlegemini&logoColor=58A6FF)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-20232a?style=flat-square&logo=openai&logoColor=58A6FF)
-![Perplexity](https://img.shields.io/badge/Perplexity_API-20232a?style=flat-square&logo=perplexity&logoColor=58A6FF)
-![Selenium](https://img.shields.io/badge/Selenium-20232a?style=flat-square&logo=selenium&logoColor=58A6FF)
+### 🤖 AI & Automation
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity_API-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-**DevOps & Tools**<br/>
-![Git](https://img.shields.io/badge/Git-20232a?style=flat-square&logo=git&logoColor=58A6FF)
-![Railway](https://img.shields.io/badge/Railway-20232a?style=flat-square&logo=railway&logoColor=58A6FF)
-![Vite](https://img.shields.io/badge/Vite-20232a?style=flat-square&logo=vite&logoColor=58A6FF)
+### 🔧 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -127,37 +147,62 @@ AI 툴을 직접 개발해 B2B 세일즈에 접목하는 영업 매니저입니�
 
 </div>
 
-| 프로젝트 | 설명 | 기술 스택 |
-|:---|:---|:---|
-| **[BlogCheatKey](https://github.com/ohjunho421/blogcheatkey_railway)** | AI 기반 SEO 최적화 블로그 자동 생성 SaaS. 6시간 → 3분으로 단축, 포트원 결제 연동 | `TypeScript` `React` `Node.js` `Claude` `Gemini` `Perplexity` |
-| **[콜드메일 자동화 챗봇](https://github.com/ohjunho421/email-copywriting-chatbot)** | AI 영업 메일 생성 시스템. CSV → 회사 정보 수집 → 개인화 문안 4종 생성 | `Python` `Flask` `Gemini` `Perplexity` `Selenium` |
-| **[사주 타로 통합 서비스](https://github.com/ohjunho421/saju-tarot)** | 동양 사주 만세력 + 서양 타로 AI 운세 해석 플랫폼 | `TypeScript` `React` `OpenAI` `Zustand` `Framer Motion` |
-| **[로또 딥러닝 예측](https://github.com/ohjunho421/lottodeeplearing)** | XGBoost + RandomForest 머신러닝 로또 번호 추천 웹앱 | `Python` `Django` `XGBoost` `scikit-learn` |
+<br/>
+
+| 프로젝트 | 설명 | 핵심 기술 |
+|:---:|:---|:---|
+| 🏆 **[BlogCheatKey](https://github.com/ohjunho421/blogcheatkey_railway)** | AI 기반 SEO 블로그 자동 생성 SaaS · **6시간 → 3분** 단축 · 포트원 결제 연동 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| 📧 **[콜드메일 자동화 챗봇](https://github.com/ohjunho421/email-copywriting-chatbot)** | AI 영업 메일 생성 · CSV → 회사 정보 수집 → 개인화 문안 4종 생성 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
+| 🔮 **[사주 타로 통합 서비스](https://github.com/ohjunho421/saju-tarot)** | 동양 사주 + 서양 타로 AI 운세 해석 플랫폼 · 163커밋 활발 개발 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| 🎲 **[로또 딥러닝 예측](https://github.com/ohjunho421/lottodeeplearing)** | XGBoost + RandomForest ML 로또 번호 추천 · ⭐ 1스타 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 Experience
 
-| 기간 | 회사 | 역할 | 주요 성과 |
-|:---|:---|:---|:---|
-| **2025.06 ~ 현재** | PortOne (코리아포트원) | SDR · 영업개발 | AI 콜드메일 파이프라인 구축, 회신율 2.2배 향상, 11,674건 발송 |
-| **2024.07 ~ 2024.10** | AIPARK | SaaS Sales | AI 음성 합성 SaaS B2B 영업, 기술 세일즈 체계화 |
-| **2022.05 ~ 2024.01** | 오픈놀 | B2B 영업 매니저 | 기업 직무 교육 B2B 영업, 자동화 스크립트 작성 |
-| **2020.10 ~ 2022.04** | 브라운백 커피 | B2B 구독 영업 | 커피머신 렌탈·원두 구독 서비스 영업 |
-
-<br/>
-
 <div align="center">
 
-📍 **경기도 의정부** · 📞 **010-5001-2143** · 📧 **jjuno_92@hanmail.net**
+```
+ 🏢 PortOne (코리아포트원)  │  SDR · 영업개발       │  2025.06 ~ 현재
+    ├─ AI 콜드메일 파이프라인 직접 구축 (CSV → 수집 → AI 생성 → 발송 완전 자동화)
+    ├─ 개인화 이메일 시스템 개발 → 회신율 1.7% → 3.8% (2.2배 향상)
+    └─ 총 11,674건 아웃바운드 발송
 
-<br/>
+ 🏢 AIPARK                  │  SaaS Sales           │  2024.07 ~ 2024.10
+    └─ AI 음성 합성 SaaS B2B 영업, 기술 세일즈 체계화
 
-*"단순 반복은 코드로, 핵심 관계 구축은 사람이."*
+ 🏢 오픈놀                   │  B2B 영업 매니저       │  2022.05 ~ 2024.01
+    └─ 기업 직무 교육 B2B 영업, 자동화 스크립트로 효율 향상
+
+ 🏢 브라운백 커피 (스윗버드)  │  B2B 구독 서비스 영업  │  2020.10 ~ 2022.04
+    └─ 커피머신 렌탈·원두 구독 서비스 B2B 영업
+```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+<br/>
+
+<a href="mailto:jjuno_92@hanmail.net"><img src="https://img.shields.io/badge/📧_jjuno__92@hanmail.net-EA4335?style=for-the-badge&logoColor=white" /></a>
+<a href="tel:010-5001-2143"><img src="https://img.shields.io/badge/📞_010--5001--2143-34A853?style=for-the-badge&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/📍_경기도_의정부-58A6FF?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+### *"단순 반복은 코드로, 핵심 관계 구축은 사람이."*
+
+<br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontSize=0" width="100%"/>
 
 <!--
 **ohjunho421/ohjunho421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
