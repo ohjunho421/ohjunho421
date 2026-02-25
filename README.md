@@ -61,16 +61,10 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjunho421&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application&langs_count=8" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohjunho421&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=ohjunho421&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=49% />
 </a>
-
-<br/>
-
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=ohjunho421&theme=material-palenight&hide_border=true&background=20232a&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=ffffffaa" width=56% />
+  <img src="https://streak-stats.demolab.com?user=ohjunho421&theme=material-palenight&hide_border=true&background=20232a&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=ffffffaa" width=49% />
 </a>
 
 <br/>
