@@ -6,11 +6,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/🏢_PortOne(코리아포트원)-SDR_재직_중-58A6FF?style=for-the-badge&labelColor=20232a" />
+<img src="https://img.shields.io/badge/🏢_VIRCLE(버클)-Growth_·_AI_자동화_재직_중-58A6FF?style=for-the-badge&labelColor=20232a" />
 
 <br/><br/>
 
-콜드메일 파이프라인 구축 · 개인화 챗봇 개발 · 반복 업무 자동화로 전환율을 끌어올립니다.
+현장 업무를 직접 들여다보고 문제를 정의한 뒤, AI 에이전트와 사내 도구로 바꿔 매일 돌아가게 만듭니다.
 
 <br/>
 
@@ -35,17 +35,17 @@
 <tr>
 <td align="center" width="280">
 <br/>
-<img src="https://img.shields.io/badge/📧_콜드메일_발송-11,674건-58A6FF?style=for-the-badge&labelColor=20232a" />
+<img src="https://img.shields.io/badge/💻_커밋_(24주)-1,798개-58A6FF?style=for-the-badge&labelColor=20232a" />
 <br/><br/>
 </td>
 <td align="center" width="280">
 <br/>
-<img src="https://img.shields.io/badge/📈_회신율_향상-2.2배-FF6B6B?style=for-the-badge&labelColor=20232a" />
+<img src="https://img.shields.io/badge/✅_머지된_PR-922개-34A853?style=for-the-badge&labelColor=20232a" />
 <br/><br/>
 </td>
 <td align="center" width="280">
 <br/>
-<img src="https://img.shields.io/badge/💻_GitHub_레포-21개-34A853?style=for-the-badge&labelColor=20232a" />
+<img src="https://img.shields.io/badge/📈_콜드메일_회신율-2.2배-FF6B6B?style=for-the-badge&labelColor=20232a" />
 <br/><br/>
 </td>
 </tr>
@@ -104,7 +104,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 AI & Automation
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Upstage](https://img.shields.io/badge/Upstage_Document_AI_·_Solar-805CFB?style=for-the-badge&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack_Bolt-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity_API-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
@@ -112,6 +116,10 @@
 
 ### 🔧 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 
@@ -145,6 +153,11 @@
 
 | 프로젝트 | 설명 | 핵심 기술 |
 |:---:|:---|:---|
+| 🏢 **사내 AI 업무 앱** (버클, 비공개) | 메일 개인화 → 고객사 리포트·자연어 데이터 추출 → 광고·매출 화면까지 1인 개발·운영 · 커밋 1,355개 · 머지 PR 904개 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Cloud Run](https://img.shields.io/badge/-Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| 🧠 **사내 통합 검색 「브레인」** (버클, 비공개) | 슬랙·노션·문서·AI 대화 기록을 한 번에 찾는 사내 위키 · 검색 **8~10초 → 0.7초** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion_API-000?style=flat-square&logo=notion&logoColor=white) |
+| 🛡️ **[harness-init](https://github.com/ohjunho421/harness-init)** | Claude Code 작업 규칙(리뷰·스킬 라우팅·변경 기록)을 훅으로 강제하는 플러그인 | ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) |
+| 📄 **PDF RAG 챗봇** (비공개) | Upstage Document Parse → Solar Embedding → Chroma → Solar Pro 답변 | ![Python](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Upstage](https://img.shields.io/badge/-Upstage-805CFB?style=flat-square) |
+| 🏋️ **인바디 코치** (비공개) | 결과지 사진 → Upstage Document OCR → Claude 구조화(JSON) → 체성분 분석·코칭 | ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Upstage](https://img.shields.io/badge/-Upstage-805CFB?style=flat-square) |
 | 🏆 **[BlogCheatKey](https://github.com/ohjunho421/blogcheatkey_railway)** | AI 기반 SEO 블로그 자동 생성 SaaS · **6시간 → 3분** 단축 · 포트원 결제 연동 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 | 📧 **[콜드메일 자동화 챗봇](https://github.com/ohjunho421/email-copywriting-chatbot)** | AI 영업 메일 생성 · CSV → 회사 정보 수집 → 개인화 문안 4종 생성 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
 | 🔮 **[사주 타로 통합 서비스](https://github.com/ohjunho421/saju-tarot)** | 동양 사주 + 서양 타로 AI 운세 해석 플랫폼 · 163커밋 활발 개발 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
@@ -161,7 +174,28 @@
 <tr>
 <td>
 
-**🏢 PortOne (포트원)** · SDR · 영업개발 · `2025.06 ~ 현재`
+**🏢 VIRCLE (버클)** · Growth팀 → 브랜드 사업부 · AI 자동화·사내 도구 개발 · `2026.06 ~ 현재`
+
+> ✅ 사내 AI 업무 앱을 1인 개발·운영: 24주간 커밋 **1,798개**, 머지 PR **922개** (Claude Code 기반)
+>
+> ✅ 자연어 데이터 추출기: 「LLM은 계획만, SQL은 코드가 조립」 원칙으로 세일즈·CS가 SQL 없이 고객사 데이터 요청 처리
+>
+> ✅ 광고·자사몰·오픈마켓 숫자를 한 화면으로 통합, 수기 광고 일일 리포트를 **매일 자동 발행** → 팀 광고 축소·중단 결정 근거로 사용
+>
+> ✅ 사내 통합 검색 「브레인」: 노션·슬랙·문서·AI 대화 1.9만 쪽 색인, 검색 **8~10초 → 0.7초**
+>
+> ✅ 고객사 공유 채널 상주 리포트 에이전트, 대화형 온보딩 에이전트, 세일즈 기록 누락 트래커(**117회** 매일 실행) 개발
+>
+> ✅ 머지 전 코드리뷰를 훅으로 강제: 리뷰된 머지 PR **274건 중 1건 → 618건 중 618건**
+
+![커밋](https://img.shields.io/badge/커밋-1,798개-58A6FF?style=flat-square&labelColor=20232a) ![PR](https://img.shields.io/badge/머지_PR-922개-34A853?style=flat-square&labelColor=20232a) ![검색](https://img.shields.io/badge/검색-0.7초-FF6B6B?style=flat-square&labelColor=20232a) ![리뷰](https://img.shields.io/badge/PR_리뷰율-100%25-A371F7?style=flat-square&labelColor=20232a)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🏢 PortOne (포트원)** · SDR · 영업개발 · `2025.06 ~ 2026.05`
 
 > ✅ 맞춤형 콜드메일 **11,674건** 발송, 평균 열람률 **64.5%** 달성
 >
